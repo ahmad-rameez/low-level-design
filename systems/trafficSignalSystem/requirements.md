@@ -72,3 +72,15 @@ We will be using MVC
 1. void setSignalTiming(int intersectionId, Enum direction, int greenDuration)
 2. void enableDynamicTiming(int intersectionId, Enum direction, boolean enable)
 3. SignalTiming getSignalTiming(int intersectionId, Enum direction)
+
+## Core Use Cases and Methods
+
+
+## OOP principle and Design Patterns Used
+1. Repository Pattern
+2. Service Layer pattern
+3. State Pattern
+4. SRP
+5. Open/Closed
+6. Encapsulation
+7. Dependency Inversions
