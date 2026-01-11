@@ -15,6 +15,4 @@ public class IntersectionController {
         System.out.println("Creating Intersection");
         return intersectionService.createIntersection(request);
     }
-
-    public
 }

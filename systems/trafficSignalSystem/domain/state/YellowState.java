@@ -1,12 +1,13 @@
 package trafficSignalSystem.domain.state;
 
 import trafficSignalSystem.domain.TrafficLight;
+import trafficSignalSystem.exception.InvalidStateTransitionException;
 
 public class YellowState implements TrafficLightState {
     @Override
     public void turnGreen(TrafficLight trafficLight) {
         // Invalid transition: YELLOW → GREEN
-        throw new InvalidStateTransitionException("YELLOW", "GREEN");
+        //throw new InvalidStateTransitionException("YELLOW", "GREEN");
     }
 
     @Override
