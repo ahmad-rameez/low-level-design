@@ -50,6 +50,7 @@ local.properties
 
 # sbteclipse plugin
 .target
+out/
 
 # Tern plugin
 .tern-project
