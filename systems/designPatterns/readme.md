@@ -20,4 +20,4 @@
 4. Command Pattern ->  Client -> Invoker(Remote) -> Command -> Receiver 
 5. Template Method -> Fixed Steps + dynamic steps
 6. State Pattern -> Food Order
-7. Chain Of Responsibility ->
+7. Chain Of Responsibility -> Support Handling
