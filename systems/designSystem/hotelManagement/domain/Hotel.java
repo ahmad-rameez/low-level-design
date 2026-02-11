@@ -1,4 +1,0 @@
-package designSystem.hotelManagement.domain;
-
-public class Hotel {
-}
